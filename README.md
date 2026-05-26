@@ -21,7 +21,4 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
 </a>
-
-
-
 </p>
